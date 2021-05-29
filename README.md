@@ -49,6 +49,10 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 
 * [choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 
+#### dmesg
+
+* [rmesg](https://github.com/polyverse/rmesg/)
+
 #### du
 
 * [dua](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
@@ -85,10 +89,6 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 
 * [procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 
-#### [rbenv](https://github.com/rbenv/rbenv)
-
-* [frum](https://github.com/TaKO8Ki/frum) - A little bit fast and modern Ruby version manager written in Rust
-
 #### rm
 
 * [rip](https://github.com/nivekuil/rip) - A safe and ergonomic alternative to rm
@@ -112,7 +112,17 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 * [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 * [ytop](https://github.com/cjbassi/ytop) (no longer maintained) - A TUI system monitor written in Rust
 
+### Network
+
+#### [iptraf-ng](https://github.com/iptraf-ng/iptraf-ng)
+
+* [bandwhich](https://github.com/imsnif/bandwhich)
+
 ### Terminal
+
+#### [Powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k)
+
+* [Starship](https://starship.rs/guide/)
 
 #### [tmux](https://github.com/tmux/tmux)
 
@@ -125,6 +135,10 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 * [Amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 
 ### Utilities
+
+#### [cloc](https://github.com/AlDanial/cloc)
+
+* [tokei](https://github.com/XAMPPRocky/tokei)
 
 #### [codemod](https://github.com/facebook/codemod)
 
