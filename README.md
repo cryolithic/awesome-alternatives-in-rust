@@ -14,6 +14,7 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
   - [System tools](#system-tools)
   - [Terminal](#terminal)
   - [Text editors](#text-editors)
+  - [Text processing](#text-processing)
   - [Utilities](#utilities)
 - [Development tools](#development-tools)
   - [Command runners](#command-runners)
@@ -37,12 +38,17 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 
 * [frawk](https://github.com/ezrosent/frawk) - an efficient awk-like language
 
+#### bash/PowerShell/fish
+
+* [nushell](https://github.com/nushell/nushell/) - An attractive structured shell
+
 #### cat
 
 * [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 
 #### [cloc](https://github.com/AlDanial/cloc)
 
+* [loc](https://github.com/cgag/loc) - Count lines of code quickly.
 * [tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 
 #### cut
@@ -133,6 +139,12 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 #### Vim
 
 * [Amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
+
+### Text processing
+
+#### grep
+
+* [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignorei
 
 ### Utilities
 
